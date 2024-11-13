@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nestjs/microservices": "^10.4.7",
+    "redis": "^4.7.0"
+  }
+}
